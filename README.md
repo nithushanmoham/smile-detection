@@ -11,7 +11,7 @@ A smile detection system is a computer vision application that identifies and de
 
 - Your laptop or phones in add the smail lock.
 
-### 1.Demo
+### 1. Demo
 
 ![WhatsApp Image 2024-01-11 at 10 26 13 PM-fotor-20240111225015](https://github.com/nithushanmoham/smile-detection/assets/106969157/be75bff9-de74-4a94-adb1-e07001c460e6)
 
