@@ -13,7 +13,9 @@ A smile detection system is a computer vision application that identifies and de
 
 ### 1. Demo
 
-![Uploading WhatsApp Image 2024-01-11 at 10.26.13 PM-fotor-202401112300.jpg…]()
+![WhatsApp Image 2024-01-11 at 10 26 13 PM-fotor-202401112300](https://github.com/nithushanmoham/smile-detection/assets/106969157/45907941-42e4-4991-b92a-03f27bc19a76)
+
+
 
 
 ## Setup
