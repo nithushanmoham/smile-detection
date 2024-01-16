@@ -1,4 +1,4 @@
-# smile-detection
+# Smile-Detection
 
 ## Smile Detection System Introduction:
 A smile detection system is a computer vision application that identifies and detects smiles in images or video streams. It involves using machine learning techniques to train a model to recognize facial features associated with a smiling expression.
