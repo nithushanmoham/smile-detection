@@ -43,6 +43,6 @@ A smile detection system is a computer vision application that identifies and de
   ```
 ## Social Links
 
-- [Linkedin](https://www.linkedin.com/in/nithushanmohan/)
+- [Linkedin Profile](https://www.linkedin.com/in/nithushanmohan/)
 
-- [Facebook](https://www.facebook.com/profile.php?id=100077725721945)
+- [Facebook Profile](https://www.facebook.com/profile.php?id=100077725721945)
